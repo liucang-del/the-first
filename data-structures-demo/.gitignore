@@ -1,0 +1,5 @@
+*.o
+ds-demo
+ds-demo-asan
+build-output.txt
+*.dSYM/
